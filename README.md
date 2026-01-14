@@ -235,3 +235,8 @@ Exemple CSS pour ajuster la largeur d'un conteneur (.container) en fonction de l
 ```
 
 Dans cet exemple, la largeur maximale du conteneur s'ajuste en fonction des tailles d'écran standards : ordinateurs de bureau, tablettes et mobiles.
+
+
+--
+
+## ➡️ Lien vers le prochain cours <a href="https://github.com/vallata/html-et-css-part-5" target="_blanck">ici</a>

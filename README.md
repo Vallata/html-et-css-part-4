@@ -2,7 +2,7 @@
 
 ## Lien vers la <a href="https://annecemech.github.io/html-css-part-4/" target="_blank">démo</a>
 
-## Lien vers le <a href="https://docs.google.com/presentation/d/e/2PACX-1vRPnC4IrNFnMUKN3GfLkolHloYTLVKHLnJQ4-D2FhVyndyBP8nlTTv-hRLqiOOH_RESiKNtexV9roKi/pub?start=false&loop=false&delayms=3000" target="_blank">cours</a>
+## Lien vers le <a href="https://www.canva.com/design/DAG9j2uqUqA/QoSnj1mgciDgSILQb6ib6g/view?utm_content=DAG9j2uqUqA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b29c3830e" target="_blank">cours</a>
 
 Nous présentons ici l'intégration de plusieurs services en ligne dans notre site web. Chacun de ces sites fournis directement le code HTML/CSS/JS d'intégration.
 
